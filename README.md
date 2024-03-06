@@ -1,2 +1,2 @@
 # Delete-me
-my temperary deposit repo
+my temporary project repo
